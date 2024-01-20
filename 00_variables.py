@@ -40,3 +40,4 @@ print(age)
 address: str = "Esta es mi direccion"
 address = 32
 print(type(address))
+
